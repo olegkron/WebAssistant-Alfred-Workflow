@@ -9,7 +9,7 @@
   For example: set `yt` with no query to open *youtube.com/subscriptions* instead of *youtube.com* homepage
 
 > **Conflicts with existing Alfred workflow**  
-Some sites used in this workflow are also used in the original Alfred "Web Searches" feature, so to not have the duplicates in alfred suggestions, you'd have to remove these sites from one of the workflows. 
+Some sites used in this workflow are also used in the original Alfred "Web Searches" feature, so to not have duplicates in alfred suggestions, you'd have to remove these sites from either one of the workflows. 
 
 ![image](https://user-images.githubusercontent.com/47119689/170863815-9dcf30ab-181a-4ba8-aa33-62fd9a652792.jpeg)
 
