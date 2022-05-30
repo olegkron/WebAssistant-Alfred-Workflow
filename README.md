@@ -6,7 +6,7 @@
 - #### Unlike many bookmark & search workflows, adds a fallback website on an empty query.
   For example: `yt cats` searches Youtube for *cats*, `yt` alone opens youtube.com.
 - #### Customizable fallbacks
-  For example: set `yt` with no query to open *youtube.com/subscriptions* instead of *youtube.com* homepage
+  For example: set `yt` with no query to open *youtube.com/subscriptions* instead of *youtube.com* homepage.
 
 > **Conflicts with existing Alfred workflow**  
 Some sites used in this workflow are also used in the original Alfred "Web Searches" feature, so to not have duplicates in alfred suggestions, you'd have to remove these sites from either one of the workflows. 
